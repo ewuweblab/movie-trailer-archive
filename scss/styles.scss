@@ -1,12 +1,6 @@
-/* Color Palette */
-$primary-color: gold;
-$secondary-color: purple;
+/* Grand Central Station. TOC. Vertex. A Hub. */
 
-body {
-    background: gold;
-}
-
-h1 {
-    color: $secondary-color;
-    text-transform: uppercase;
-}
+@import "global";
+@import "grid";
+@import "typography";
+@import "video";
