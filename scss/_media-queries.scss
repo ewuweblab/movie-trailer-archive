@@ -46,8 +46,14 @@
 /* Desktop: 1280px = 80em */
 @media screen and (min-width: 80em) { 
     
+    // turn off
     header h1 {
         display: none;
+    }
+    
+    // turn on
+    article h1 {
+        display: block;
     }
     
     section {
