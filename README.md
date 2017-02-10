@@ -1,6 +1,4 @@
-# Photosynthesis
-
-## Content Priority Outline
+# Content Priority Outline
 
 1. Trailer
 2. Title
